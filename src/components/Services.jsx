@@ -6,7 +6,10 @@ export default function Services() {
     <section id="servicios" className="services">
       <header className="services-header">
         <h2>Nuestros servicios</h2>
-        <p>Soluciones profesionales pensadas para particulares y empresas que buscan seguridad y respaldo.</p>
+        <p>
+          Soluciones profesionales pensadas para particulares y empresas que
+          buscan seguridad y respaldo.
+        </p>
       </header>
 
       <div className="services-grid">
